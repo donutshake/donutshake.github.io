@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Brush - Learn More</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #d3c2ca;
+      }
+      header {
+        background-color: #e09d81;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+      }
+      h1 {
+        font-size: 3em;
+        font-weight: normal;
+        margin: 0;
+        font-family: 'Monoton', cursive;
+      }
+      button {
+        background-color: #96a58e;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1.2em;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 20px auto;
+        display: block;
+      }
+      button:hover {
+        background-color: #748ea1;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Brush</h1>
+    </header>
+    <button>Learn More</button>
+  </body>
+</html>
